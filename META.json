@@ -1,0 +1,61 @@
+{
+  "category": "infrastructure-management",
+  "created_date": "2025-09-15T22:48:57.377544",
+  "default_ports": [
+    80,
+    443,
+    9000
+  ],
+  "dependencies": [],
+  "description": "collins is a free and open-source infrastructure management. Collins provides infrastructure asset management",
+  "difficulty_level": "intermediate",
+  "documentation_url": "https://howtomgr.github.io/infrastructure-management/collins",
+  "estimated_setup_time": "15-30 minutes",
+  "features": [
+    "multi-os-support",
+    "comprehensive-documentation",
+    "security-hardening",
+    "performance-optimization",
+    "backup-restore-procedures",
+    "troubleshooting-guides"
+  ],
+  "guide_path": "/infrastructure-management/collins",
+  "installation_methods": [
+    "native-packages",
+    "source-compilation"
+  ],
+  "last_updated": "2025-09-15T22:48:57.377565",
+  "license": "Open Source",
+  "maintenance_status": "active",
+  "name": "collins",
+  "repository_url": "https://github.com/howtomgr/collins",
+  "spec_version": "2.0",
+  "subcategory": "infrastructure-management",
+  "supported_os": [
+    "rhel",
+    "centos",
+    "rocky",
+    "almalinux",
+    "debian",
+    "ubuntu",
+    "arch",
+    "alpine",
+    "opensuse",
+    "sles",
+    "macos",
+    "freebsd",
+    "windows"
+  ],
+  "tags": [
+    "infrastructure-management",
+    "containerization",
+    "observability",
+    "data-storage",
+    "networking",
+    "security",
+    "data-protection"
+  ],
+  "title": "collins Installation Guide",
+  "version": "1.0.0",
+  "website_url": "https://howtomgr.github.io/infrastructure-management/collins"
+}
